@@ -1,8 +1,18 @@
+.oversikt {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
 h1 {
     color: green;
+    
+    
 }
 h5 {
     column-count: 3;
+    
+
 
 }
 
@@ -10,10 +20,9 @@ h5 {
     color: green;
 }
 
-.svartSub{
-    color: black;
-}
 
-#svartsub{
-    color: black;
+.wrapper {
+    display: block;
+    margin-left: 500px;
+    margin-right: auto;
 }
