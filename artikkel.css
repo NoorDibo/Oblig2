@@ -18,11 +18,14 @@ h5 {
 
 .grønnSub{
     color: green;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.svartSub{
+    color: black;
+}
 
-.wrapper {
-    display: block;
-    margin-left: 500px;
-    margin-right: auto;
+#svartsub{
+    color: black;
 }
