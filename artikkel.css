@@ -8,12 +8,14 @@ h5 {
 
 .grønnSub{
     color: green;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .svartSub{
     color: black;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#svartsub{
-    color: black;
-}
+
