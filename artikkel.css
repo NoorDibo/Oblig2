@@ -5,3 +5,7 @@ h5 {
     column-count: 3;
 
 }
+
+img {
+    float: left;
+}
