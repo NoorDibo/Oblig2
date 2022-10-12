@@ -24,3 +24,26 @@ h5 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
 }
+/* master cooking columns */
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    padding: 10px;
+  }
+  
+  .left, .right {
+    width: 33%;
+  }
+  
+  .middle {
+    width: 33%;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
