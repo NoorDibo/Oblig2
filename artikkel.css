@@ -6,6 +6,14 @@ h5 {
 
 }
 
-img {
-    float: left;
+.grønnSub{
+    color: green;
+}
+
+.svartSub{
+    color: black;
+}
+
+#svartsub{
+    color: black;
 }
